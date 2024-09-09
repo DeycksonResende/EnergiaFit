@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#30CD30</color>
+    <color name="colorPrimaryVariante">#F8A480</color>
+
+    <!-- cores secundarias-->
+    <color name="secundaria">#393D46</color>
+    <color name="secundariaVariante">#30CD30</color>
+
+    <color name="CorDeFundo">#FFFFFF</color>
+</resources>
